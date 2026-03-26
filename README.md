@@ -1,5 +1,5 @@
 # workerchat-with-E2EE
-
+![CodeRabbit Pull Request Reviews](https://img.shields.io/coderabbit/prs/github/superbtor/WorkerChat?utm_source=oss&utm_medium=github&utm_campaign=superbtor%2FWorkerChat&labelColor=171717&color=FF570A&link=https%3A%2F%2Fcoderabbit.ai&label=CodeRabbit+Reviews)
 一个基于 Cloudflare Workers 和 OpenPGP 的极简端到端加密聊天室应用。
 
 ## 声明
@@ -37,7 +37,6 @@
 ## 🔐 安全特性
 
 - 消息在客户端加密，服务器无法读取明文
-![CodeRabbit Pull Request Reviews](https://img.shields.io/coderabbit/prs/github/superbtor/WorkerChat?utm_source=oss&utm_medium=github&utm_campaign=superbtor%2FWorkerChat&labelColor=171717&color=FF570A&link=https%3A%2F%2Fcoderabbit.ai&label=CodeRabbit+Reviews)
 - 私钥仅存储在用户浏览器本地(localStorage)
 - WSS 加密传输
 
