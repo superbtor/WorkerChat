@@ -17,7 +17,7 @@
 ## 🚀 快速开始
 
 ### 部署到 Cloudflare Workers
-[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/gxxk-dev/workerchat-with-E2EE.git)
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/superbtor/workerchat.git)
 
 ### 本地运行
 `git clone`后`npm run dev`即可运行
