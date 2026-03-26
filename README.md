@@ -1,6 +1,7 @@
 # workerchat-with-E2EE
 ![CodeRabbit Pull Request Reviews](https://img.shields.io/coderabbit/prs/github/superbtor/WorkerChat?utm_source=oss&utm_medium=github&utm_campaign=superbtor%2FWorkerChat&labelColor=171717&color=FF570A&link=https%3A%2F%2Fcoderabbit.ai&label=CodeRabbit+Reviews)
-一个基于 Cloudflare Workers 和 OpenPGP 的极简端到端加密聊天室应用。
+
+- 一个基于 Cloudflare Workers 和 OpenPGP 的极简端到端加密聊天室应用。
 
 ## 声明
 
